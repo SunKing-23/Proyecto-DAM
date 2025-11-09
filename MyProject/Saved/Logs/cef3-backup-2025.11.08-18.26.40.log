@@ -1,0 +1,3 @@
+[1108/184249.305:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1108/192639.972:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[1108/192640.055:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
